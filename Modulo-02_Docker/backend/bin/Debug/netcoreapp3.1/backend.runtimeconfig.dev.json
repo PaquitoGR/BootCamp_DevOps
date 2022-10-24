@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zerat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zerat\\.nuget\\packages"
+    ]
+  }
+}
